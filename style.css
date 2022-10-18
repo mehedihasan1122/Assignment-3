@@ -1,0 +1,14 @@
+/* .carousel-captio {
+     transform: translateY(-50%);
+    bottom: initial;
+    top: 50%;
+} */
+
+#banner {
+    height: 700px;
+}
+
+
+.carousel-item img {
+    max-height: 500px;
+}
