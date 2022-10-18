@@ -3,12 +3,3 @@
     bottom: initial;
     top: 50%;
 } */
-
-#banner {
-    height: 700px;
-}
-
-
-.carousel-item img {
-    max-height: 500px;
-}
